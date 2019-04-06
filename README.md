@@ -1,2 +1,2 @@
 # Text-Document-Kit
-the desktop application in project Text Document Kit
+It is a desktop application, which has a corpus. The user can import text documents from the localhost to the corpus, and implement key word search. This retrieval can search the content of the text documents directly, and form a ranking list of the relevant documents. If the user click a text document in the list, the application will show a list of all lines with the key word in the documents. While continuing to click a line, the user will see this line highlighted in the document. This project is based on JAVA IO, and using postgreSQL database. UI is written by JAVA Swing.
